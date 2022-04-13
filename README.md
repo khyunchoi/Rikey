@@ -176,7 +176,7 @@
 
 ### 3.4 API 명세서
 
- [API_명세서.html](README.assets\API_명세서.html) 
+ [API_명세서.html](README.assets/API_명세서.html) 
 
 
 
