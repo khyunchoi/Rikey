@@ -2,7 +2,7 @@
 
 > RIDE + BIKE = RIKEY 💚
 
-![rikey_logo](README.assets/rikey_logo-16498602554561.png)
+![rikey_logo](README.assets/rikey_logo.png)
 
 
 ## 프로젝트 소개
@@ -176,7 +176,7 @@
 
 ### 3.4 API 명세서
 
- [API 명세서.html](README.assets\API 명세서.html) 
+ [API 명세서.html](README.assets/API_명세서.html) 
 
 
 
