@@ -176,9 +176,7 @@
 
 ### 3.4 API 명세서
 
- [API_명세서.html](README.assets/API_명세서.html) 
-
-
+![api_명세서](README.assets/api_명세서.png)
 
 ### 3.5 요구사항 명세서
 
