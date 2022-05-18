@@ -48,22 +48,9 @@
    - API 명세서
    - 요구사항 명세서   
 
-<div id="1"></div>
-
 ## 1. 팀소개 🙌
 
 > 팀명 : 한사랑개발회🤎
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/khyunchoi"><img src="https://avatars.githubusercontent.com/u/77478732?v=4" width="100px;" alt=""/><br /><sub><b>최강현<br>Back-end, 팀장</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/kimhyeongjun95"><img src="https://avatars.githubusercontent.com/u/86656921?v=4" width="100px;" alt=""/><br /><sub><b>김형준<br>Front-end</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/hongjungkimm"><img src="https://avatars.githubusercontent.com/u/87457152?v=4" width="100px;" alt=""/><br /><sub><b>김홍중<br>Back-end</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/yeongsummer"><img src="https://avatars.githubusercontent.com/u/87457128?v=4" width="100px;" alt=""/><br /><sub><b>장영하<br>Back-end</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/DongKyunJung"><img src="https://avatars.githubusercontent.com/u/87457171?v=4" width="100px;" alt=""/><br /><sub><b>정동균<br>Front-end</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/woosteelz"><img src="https://avatars.githubusercontent.com/u/48507475?v=4" width="100px;" alt=""/><br /><sub><b>정우철<br>Front-end</b></sub></a><br /></td>
-    </tr>
-</table>
 
 
 
@@ -81,7 +68,7 @@
 - 최강현: 사용자 인증 및 프로필 관련 API 개발, Hadoop을 이용한 자전거 편의시설 데이터 분산처리, Nginx를 이용한 EC2 서버 배포
 
 
-<div id="2"></div>
+
 
 ## 2. 프로젝트 소개 🎁
 
@@ -150,7 +137,7 @@
 - 하단의 `연필` 버튼을 누르면 글작성 페이지로 이동합니다.
 - 제목과 내용, 사진을 첨부해서 게시글을 작성할 수 있습니다.
 
-<div id="3"></div>
+
 
 ## 3. 프로젝트 명세 🛠
 
